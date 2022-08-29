@@ -6,3 +6,4 @@ My name is Priti
 I am very happy now 
 Thank you
 >>>>>>> Stashed changes
+Third change I am making
